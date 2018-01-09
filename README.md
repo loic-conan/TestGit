@@ -1,2 +1,2 @@
 # TestGit
-Projet pour tests
+Projet pour tests sur GitKraken
